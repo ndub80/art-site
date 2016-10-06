@@ -3,31 +3,21 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
 // Width of the content area
 $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+$header_text_color: #748992;
+$link_color: $header_text_color;
+$header_text_logo_padding: 85;
+$left_header_text_width: 351;
+$left_header_text_left_pos: -($left_header_text_width + $header_text_logo_padding)px;
+$right_header_text_width: 203;
+$right_header_text_left_pos: -($right_header_text_width + $header_text_logo_padding)px;
+$base_line_height: 18px;
+$footer_height: 19px;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -45,8 +35,173 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@import "mixins";
+
+@font-face {
+    font-family: CenturyGothic2;
+    src: url('/fonts/century-gothic-2.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    min-width: 1024px;
+    margin: 0px;
+    font-family: CenturyGothic2, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.wrap {
+    min-height: 100%;
+}
+
+.main {
+    overflow: auto;
+    padding-bottom: $footer_height;
+}  /* must be same height as the footer */
+
+/*Opera Fix*/
+body:before {
+    content:"";
+    height:100%;
+    float:left;
+    width:0;
+    margin-top:-32767px;
+}
+
+a, .email {
+    color: $link_color;
+    text-decoration: none;
+}
+a:hover, .email:hover {
+    color: darken($link_color, 15%);
+}
+a:active, .email:active {
+    color: $link_color;
+}
+
+.header {
+    .banner {
+        height: 190px;
+        background-image:url('../images/banner-slice.png');
+        background-repeat: repeat-x;
+        .logo {
+            background-image:url('../images/ee-logo.png');
+            height: 100%;
+            width: 203px;
+            margin: auto;
+            background-repeat: no-repeat;
+            background-position: center;
+            position: relative;
+            overflow: visible;
+            .left-text {
+                position: absolute;
+                right: 250px;
+                bottom: 50px;
+                width: 400px;
+                font-size: 16px;
+                color: $header_text_color;
+                text-align: right;
+                span.text {
+                    padding: 0px 5px;
+                }
+            }
+            .right-text {
+                position: absolute;
+                width: 300px;
+                bottom: 50px;
+                left: 250px;
+                font-size: 16px;
+                color: $header_text_color;
+                text-align: left;
+                a {
+                    padding: 0px 5px;
+                }
+            }
+        }
+        @include box-shadow(0px 0px 15px #dddddd);
+    }
+}
+
+.footer {
+    @include box-shadow(0px 0px 15px #dddddd);
+    color: $header_text_color;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f1f4f6;
+    text-align: center;
+
+    position: relative;
+    margin-top: -$footer_height; /* negative value of footer height */
+    height: $footer_height;
+    clear:both;
+}
+
+.content {
+    width: 100%;
+    .well {
+        width: 530px;
+        margin: auto;
+        padding-top: 125px;
+    }
+    .item {
+        margin-bottom: 85px;
+        width: 100%;
+        position: relative;
+        .img-container {
+            margin: auto;
+            img {
+                border: 0px;
+            }
+        }
+        .info {
+            position: absolute;
+            left: 655px;
+            bottom: 30px;
+            width: 200px;
+            .number {
+                font-size: 13px;
+                color: #afafaf;
+            }
+            .title {
+                margin-top: 10px;
+                font-size: 16px;
+                color: #6b6b6b;
+            }
+            .media {
+                margin-top: 10px;
+                font-size: 13px;
+                color: #afafaf;
+            }
+            .description {
+                margin-top: 5px;
+                font-size: 13px;
+                color: #8a8a8a;
+                letter-spacing: 0.1em;
+            }
+        }
+    }
+}
+
+.page-content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    .page-text {
+        margin: auto;
+        width: 600px;
+        font-size: 13px;
+        color: #6b6b6b;
+    }
+    .page-image {
+        margin-top: 30px;
+        margin-bottom: 200px;
+        img {
+            display: block;
+            margin: auto;
+        }
+    }
+}

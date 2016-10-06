@@ -1,0 +1,23 @@
+{% assign num_art = include.data.size %}
+{% for i in (1..num_art) %}
+  {% assign project = include.data[forloop.index0] %}
+  <div class="item">
+    <div class="img-container" style="width:{{project.width}}px; height:{{project.height}}px;">
+      <img title="{{project.title}}" src="/images/{{include.images_subdir}}/{{project.file_name}}"/>
+    </div>
+    <div class="info">
+      <div class="number">
+        {{i}} / {{num_art}}
+      </div>
+      <div class="title">
+        {{project.title}}
+      </div>
+      <div class="media">
+        {{project.media}}
+      </div>
+      <div class="description">
+        {{project.description}}
+      </div>
+    </div>
+  </div>
+{% endfor %}
