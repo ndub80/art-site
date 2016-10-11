@@ -3,12 +3,14 @@
   file_name: payette.jpg
   height: 407
   width: 530
+  max_res: 2
 
 - title: Parallel
   media: Oil on Canvas
   file_name: parallel.jpg
   height: 441
   width: 530
+  max_res: 2
 
 - title: Magpie Butte
   media: Oil on Canvas

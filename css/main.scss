@@ -36,6 +36,7 @@ $footer_height: 19px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "mixins";
+@import "retina";
 
 @font-face {
     font-family: CenturyGothic2;
