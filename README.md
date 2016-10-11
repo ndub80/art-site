@@ -12,5 +12,6 @@
    - `width`: widht in pixels of the standard resolution image, e.g. 530
    - `max_res`: the highest resolution version of the image you have, set this to 2 if you have an @2x version of your image, otherwise remove this entry
 4. Commit and push new code to GitHub:
-   1. `git add <filename>`
-   2. ​
+   1. `git add *` - Sets up all of your new and edited files to be commited to source control
+   2. `git commit -m "<your message describing what you added>"` - Commit your updates locally
+   3. `git push origin master` - Push your updated to GitHub, which will then trigger a deploy to the live site
