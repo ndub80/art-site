@@ -27,8 +27,8 @@
 - title: Hatchet
   media: Oil on Canvas
   file_name: hatchet.jpg
-  height: 408
-  width: 530
+  height: 530
+  width: 480
   max_res: 2
 
 - title: Kennedy Barn
@@ -40,7 +40,7 @@
   
 - title: Passage
   media: Oil on Canvas
-  file_name: hatchet.jpg
+  file_name: passage.jpg
   height: 265
   width: 530
   max_res: 2
@@ -109,10 +109,17 @@
   max_res: 2 
   
 - title: Federico's Girlfriend's Sister
-  media: Oil on Canvas
+  media: Terra Cotta
   file_name: Federicos Girlfriends Sister.jpg
   height: 530
   width: 398
+  max_res: 2  
+  
+  - title: Indian Head
+  media: Cast Stone
+  file_name: indian head.jpg
+  height: 276
+  width: 530
   max_res: 2  
   
   
