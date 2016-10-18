@@ -1,39 +1,39 @@
 - title: One False Move
   media: Poster Design
-  file_name: OFM poster.jpg
+  file_name: ofm_poster.jpg
   height: 530
   width: 343
   max_res: 2
 
 - title: Foot Locker
   media: Poster Design
-  file_name: foot locker.jpg
+  file_name: foot_locker.jpg
   height: 530
   width: 432
   max_res: 2
 
 - title: Night of the Virgin
   media: Book Jacket Design
-  file_name: elliott virgin.jpg
+  file_name: elliott_virgin.jpg
   height: 374
   width: 530
   max_res: 2
 
 - title: Captain America 75th Anniversary
   media: Magazine Ad Design
-  file_name: Captain America 75th Anniversary.jpg
+  file_name: captain_america_75th_anniversary.jpg
   height: 530
   width: 398
   max_res: 2
-  
-  - title: Co-Main Event Podcast
+
+- title: Co-Main Event Podcast
   media: Poster Design
-  file_name: CME poster.jpg
+  file_name: cme_poster.jpg
   height: 402
   width: 530
   max_res: 2
-  
-    - title: Sabzee
+
+- title: Sabzee
   media: Logo Design
   file_name: sabzee.jpg
   height: 184

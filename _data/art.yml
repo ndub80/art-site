@@ -14,13 +14,13 @@
 
 - title: Transient Being
   media: Oil on Canvas
-  file_name: transient being.jpg
+  file_name: transient_being.jpg
   height: 321
   width: 530
 
 - title: Magpie Butte
   media: Oil on Canvas
-  file_name: magpie butte.jpg
+  file_name: magpie_butte.jpg
   height: 468
   width: 530
 
@@ -33,93 +33,93 @@
 
 - title: Kennedy Barn
   media: Oil on Canvas
-  file_name: kennedy barn.jpg
+  file_name: kennedy_barn.jpg
   height: 530
   width: 530
   max_res: 2
-  
+
 - title: Passage
   media: Oil on Canvas
   file_name: passage.jpg
   height: 265
   width: 530
   max_res: 2
-  
+
 - title: Tiny Succulent
   media: Oil on Canvas
-  file_name: Tiny Succulent.jpg
+  file_name: tiny_succulent.jpg
   height: 530
   width: 354
   max_res: 2
-  
+
 - title: Sentry
   media: Oil on Canvas
   file_name: setry.jpg
   height: 409
   width: 530
   max_res: 2
-  
+
 - title: Man and Pear
   media: Oil on Canvas
-  file_name: man and pear.jpg
+  file_name: man_and_pear.jpg
   height: 272
   width: 530
   max_res: 2
-  
+
 - title: Specificity
   media: Oil on Canvas
-  file_name: Specificity.jpg
+  file_name: specificity.jpg
   height: 388
   width: 530
-  max_res: 2 
-  
+  max_res: 2
+
 - title: Barn
   media: Oil on Canvas
-  file_name: Pearson Barn.jpg
+  file_name: pearson_barn.jpg
   height: 159
   width: 530
-  max_res: 2  
-  
+  max_res: 2
+
 - title: Boulder Lake
   media: Oil on Canvas
-  file_name: boulder lake.jpg
+  file_name: boulder_lake.jpg
   height: 384
   width: 530
-  max_res: 2  
-  
+  max_res: 2
+
 - title: Untitled
   media: Linoleum Reduction
-  file_name: leaning barn.jpg
+  file_name: leaning_barn.jpg
   height: 432
   width: 530
-  max_res: 2  
-  
+  max_res: 2
+
 - title: Clow...No, Cock
   media: Oil on Canvas
-  file_name: Specificity.jpg
+  file_name: cow_no_clock.jpg
   height: 442
   width: 530
-  max_res: 2  
-  
+  max_res: 2
+
 - title: Your Hand Drawing Your Hero
   media: Oil on Canvas
-  file_name: hands drawing heroes.jpg
+  file_name: hands_drawing_heroes.jpg
   height: 314
   width: 530
-  max_res: 2 
-  
+  max_res: 2
+
 - title: Federico's Girlfriend's Sister
   media: Terra Cotta
-  file_name: Federicos Girlfriends Sister.jpg
+  file_name: federicos_girlfriends_sister.jpg
   height: 530
   width: 398
-  max_res: 2  
-  
-  - title: Indian Head
+  max_res: 2
+
+- title: Indian Head
   media: Cast Stone
-  file_name: indian head.jpg
+  file_name: indian_head.jpg
   height: 276
   width: 530
-  max_res: 2  
-  
-  
+  max_res: 2
+
+
