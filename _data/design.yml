@@ -1,17 +1,35 @@
-- title: Magpie Butte
-  media: Oil on Canvas
-  file_name: magpie_butte.jpg
-  height: 468
+- title: One False Move
+  media: Poster Design
+  file_name: OFM poster.jpg
+  height: 530
+  width: 343
+
+- title: Foot Locker
+  media: Poster Design
+  file_name: foot locker.jpg
+  height: 530
+  width: 432
+
+- title: Night of the Virgin
+  media: Book Jacket Design
+  file_name: elliott virgin.jpg
+  height: 374
   width: 530
 
-- title: Parallel
-  media: Oil on Canvas
-  file_name: parallel.jpg
-  height: 441
+- title: Captain America 75th Anniversary
+  media: Magazine Ad Design
+  file_name: Captain America 75th Anniversary.jpg
+  height: 530
+  width: 398
+  
+  - title: Co-Main Event Podcast
+  media: Poster Design
+  file_name: CME poster.jpg
+  height: 402
   width: 530
-
-- title: Payette
-  media: Oil on Canvas
-  file_name: payette.jpg
-  height: 407
+  
+    - title: Sabzee
+  media: Logo Design
+  file_name: sabzee.jpg
+  height: 184
   width: 530
