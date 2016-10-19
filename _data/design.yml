@@ -109,12 +109,26 @@
   height: 530
   width: 412
   max_res: 2
+  
+- title: Joe Rogan Exeperience
+  media: Digital Painting
+  file_name: rogan.jpg
+  height: 530
+  width: 440
+  max_res: 2
 
 - title: YOWHATUP
   media: Poster Design
   file_name: yowhatup.jpg
   height: 530
   width: 398
+  max_res: 2
+  
+- title: An Illustrated Guide to Soccer and Spanish
+  media: Digital Painting
+  file_name: elliott_soccer.jpg
+  height: 530
+  width: 441
   max_res: 2
   
 - title: Octopus
@@ -138,4 +152,17 @@
   width: 530
   max_res: 2
   
+- title: Sensory Deprivation Tank
+  media: Digital Painting
+  file_name: chimp_tank.jpg
+  height: 450
+  width: 530
+  max_res: 2
+
+- title: Shark hunter
+  media: Digital Painting
+  file_name: sharkhunter.jpg
+  height: 527
+  width: 530
+  max_res: 2
   
