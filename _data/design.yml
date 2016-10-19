@@ -32,6 +32,13 @@
   height: 530
   width: 398
   max_res: 2
+  
+- title: Reflektive Infographic
+  media: Infographic Design
+  file_name: infographic.jpg
+  height: 530
+  width: 530
+  max_res: 2
 
 - title: Co-Main Event Podcast
   media: Poster Design
@@ -46,3 +53,89 @@
   height: 184
   width: 530
   max_res: 2
+  
+- title: Wildwood Adventures
+  media: Logo Design
+  file_name: wildwood_logo.jpg
+  height: 320
+  width: 530
+  max_res: 2
+  
+ - title: MLSFLTR
+  media: Logo Design
+  file_name: mlsfltr.jpg
+  height: 289
+  width: 530
+  max_res: 2
+  
+- title: Poker Palace
+  media: Logo Design
+  file_name: pokerlogo.jpg
+  height: 245
+  width: 530
+  max_res: 2
+  
+- title: Satyr Pale Ale
+  media: Logo Design
+  file_name: satyr_logo.jpg
+  height: 416
+  width: 530
+  max_res: 2
+  
+- title: Satyr Pale Ale
+  media: Logo Design
+  file_name: satyr_logo.jpg
+  height: 416
+  width: 530
+  max_res: 2
+
+- title: Co-Main Event Podcast
+  media: Logo Design
+  file_name: cme4.jpg
+  height: 513
+  width: 530
+  max_res: 2
+  
+- title: MAA2 X Games Poster
+  media: Poster Design
+  file_name: MAA2_X_Games_sign.jpg
+  height: 530
+  width: 354
+  max_res: 2
+  
+- title: MIB Taco Party
+  media: Poster Design
+  file_name: taco_party.jpg
+  height: 412
+  width: 530
+  max_res: 2
+
+- title: YOWHATUP
+  media: Poster Design
+  file_name: yowhatup.jpg
+  height: 530
+  width: 398
+  max_res: 2
+  
+- title: Octopus
+  media: Digital Painting
+  file_name: octopus.jpg
+  height: 398
+  width: 530
+  max_res: 2
+  
+- title: Merry Christmas From Bryan Callen
+  media: Digital Painting
+  file_name: octopus.jpg
+  height: 410
+  width: 530
+  max_res: 2
+  
+- title: MMA Mount Rushmore
+  media: Digital Painting
+  file_name: mmarushmore.jpg
+  height: 354
+  width: 530
+  max_res: 2
+  
+  
