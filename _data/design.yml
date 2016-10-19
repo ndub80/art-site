@@ -78,15 +78,8 @@
 - title: Satyr Pale Ale
   media: Logo Design
   file_name: satyr_logo.jpg
-  height: 416
-  width: 530
-  max_res: 2
-  
-- title: Satyr Pale Ale
-  media: Logo Design
-  file_name: satyr_logo.jpg
-  height: 416
-  width: 530
+  height: 530
+  width: 416
   max_res: 2
 
 - title: Co-Main Event Podcast
@@ -106,8 +99,8 @@
 - title: MIB Taco Party
   media: Poster Design
   file_name: taco_party.jpg
-  height: 412
-  width: 530
+  height: 530
+  width: 412
   max_res: 2
 
 - title: YOWHATUP
@@ -126,7 +119,7 @@
   
 - title: Merry Christmas From Bryan Callen
   media: Digital Painting
-  file_name: octopus.jpg
+  file_name: callen.jpg
   height: 410
   width: 530
   max_res: 2
