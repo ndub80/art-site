@@ -8,8 +8,8 @@
 - title: Foot Locker
   media: Poster Design
   file_name: foot_locker.jpg
-  height: 530
-  width: 432
+  height: 432
+  width: 530
   max_res: 2
 
 - title: Night of the Virgin
@@ -29,8 +29,8 @@
 - title: Co-Main Event Podcast
   media: Poster Design
   file_name: cme_poster.jpg
-  height: 402
-  width: 530
+  height: 530
+  width: 402
   max_res: 2
 
 - title: Sabzee
