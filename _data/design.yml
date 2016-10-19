@@ -68,13 +68,6 @@
   width: 530
   max_res: 2
   
-- title: Poker Palace
-  media: Logo Design
-  file_name: pokerlogo.jpg
-  height: 245
-  width: 530
-  max_res: 2
-  
 - title: Satyr Pale Ale
   media: Logo Design
   file_name: satyr_logo.jpg
@@ -86,6 +79,13 @@
   media: Logo Design
   file_name: cme4.jpg
   height: 513
+  width: 530
+  max_res: 2
+   
+- title: Poker Palace
+  media: Logo Design
+  file_name: pokerlogo.jpg
+  height: 245
   width: 530
   max_res: 2
   
@@ -120,8 +120,8 @@
 - title: Merry Christmas From Bryan Callen
   media: Digital Painting
   file_name: callen.jpg
-  height: 410
-  width: 530
+  height: 530
+  width: 410
   max_res: 2
   
 - title: MMA Mount Rushmore
