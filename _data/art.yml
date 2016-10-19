@@ -107,6 +107,13 @@
   height: 314
   width: 530
   max_res: 2
+  
+- title: Dive
+  media: Gypsum
+  file_name: indian_head.jpg
+  height: 199
+  width: 530
+  max_res: 2
 
 - title: Federico's Girlfriend's Sister
   media: Terra Cotta
@@ -116,7 +123,7 @@
   max_res: 2
 
 - title: Indian Head
-  media: Cast Stone
+  media: Clay, Cast Stone
   file_name: indian_head.jpg
   height: 276
   width: 530
