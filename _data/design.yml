@@ -7,28 +7,32 @@
   max_res: 2
   
 - title: One False Move
-  media: Album Art and Design
+  media: Album Art/Design
+  description: Album cover design for the Minneapolis-based rock band One False Move. (left side is the back, right, the front)
   file_name: OFM_album_art.jpg
   height: 280
   width: 530
   max_res: 2
     
 - title: Reflektive Infographic
-  media: Infographic Design
+  media: Infographic
+  description: Infographics for Reflektive, an employee performance, engagement and analytics platform. http://blog.reflektive.com/performance-management-best-practices
   file_name: infographic.jpg
   height: 530
   width: 530
   max_res: 2
 
 - title: Foot Locker
-  media: Poster Design
+  media: Digital Painting
+  description: Poster design for Nike.
   file_name: foot_locker.jpg
   height: 432
   width: 530
   max_res: 2
 
 - title: Captain America 75th Anniversary
-  media: Magazine Ad Design
+  media: Print Magazine Design
+  description: One-page magazine ad, celebrating Captain America's 75th Anniversary.
   file_name: captain_america_75th_anniversary.jpg
   height: 530
   width: 398
@@ -36,6 +40,7 @@
     
 - title: Satyr Pale Ale
   media: Logo Design
+  description: Logo for Satyr Pale Ale, by Rupert's Brew House, in Kalamazoo, Michigan
   file_name: satyr_logo.jpg
   height: 530
   width: 416
@@ -43,6 +48,7 @@
 
 - title: Sabzee
   media: Logo Design
+  description: Logo design for the bolani (an Afghani-style turnover) vegetarian food truck in San Francisco www.sabzeefoods.com
   file_name: sabzee.jpg
   height: 184
   width: 530
@@ -50,6 +56,7 @@
   
 - title: Co-Main Event Podcast
   media: Logo Design
+  description: Logo design and variations for the MMA podcast The Co-Main Event, featuring Ben Fowlkes and Chad Dundas.
   file_name: cme4.jpg
   height: 513
   width: 530
@@ -57,6 +64,7 @@
   
 - title: Wildwood Adventures
   media: Logo Design
+  description: Logo design for Wildwood Adventures, a tour company in Portland, OR www.wildwoodtours.com
   file_name: wildwood_logo.jpg
   height: 320
   width: 530
@@ -64,6 +72,7 @@
    
 - title: Poker Palace
   media: Logo Design
+  description: Logo design for the Playdom social video game Poker Palace.
   file_name: pokerlogo.jpg
   height: 245
   width: 530
@@ -71,6 +80,7 @@
     
 - title: MLSFLTR
   media: Logo Design
+  description: Design and treatment variations for the mlsFLTR.com and eplFLTR.com logos.
   file_name: mlsfltr.jpg
   height: 289
   width: 530
@@ -78,13 +88,15 @@
     
 - title: Frozen Free Fall Pandora Ad
   media: Mobile Interstitial Design
+  description: One of many mobile ads, this one for Pandora
   file_name: frozen_pandora.jpg
   height: 530
   width: 283
   max_res: 2
   
 - title: WSOP USA Today Ad
-  media: Newspaper Ad Design
+  media: Newspaper Ad
+  description: Half-page newspaper ad for the online social game ESPN’s World Series of Poker, which ran in USA Today.
   file_name: WSOP_usa_today.jpg
   height: 337
   width: 530
@@ -92,13 +104,15 @@
   
 - title: Co-Main Event Podcast
   media: Poster Design
+  description: Promotional poster design for the Co-Main Event Podcast, with Chad Dundas of ESPN.com and Ben Fowlkes of USA Today. www.comainevent.com/about-us/
   file_name: cme_poster.jpg
   height: 530
   width: 402
   max_res: 2
     
-- title: Joe Rogan Exeperience
+- title: JRE Space Chimpanzee
   media: Digital Painting
+  description: Promotional poster for the Joe Rogan Experience podcast.
   file_name: rogan.jpg
   height: 530
   width: 440
@@ -106,13 +120,15 @@
   
 - title: MAA2 X Games Poster
   media: Poster Design
+  description: Large-scale print poster shown at X Games events.
   file_name: MAA2_X_Games_sign.jpg
   height: 530
   width: 354
   max_res: 2
     
-- title: MAA2 Large Scale Banners
+- title: MAA2 Large Banners
   media: Poster Design
+  description: Large-scale print banners promoting the game, shown at various conventions.
   file_name: maa2_banners.jpg
   height: 530
   width: 428
@@ -120,6 +136,7 @@
   
 - title: MIB Taco Party
   media: Poster Design
+  description: Promotional poster for Michael Ian Black's push to become the official spokesperson of Taco Bell.
   file_name: taco_party.jpg
   height: 530
   width: 412
@@ -127,6 +144,7 @@
 
 - title: YOWHATUP
   media: Poster Design
+  description: Promotional poster for Erik Ebeling Graphic Design, featuring Magnus, my parents’ beastish brown labrador.
   file_name: yowhatup.jpg
   height: 530
   width: 398
@@ -134,6 +152,7 @@
   
 - title: Merry Christmas From Bryan Callen
   media: Digital Painting
+  description: Bryan Callen and his ostrich want to wish you a Merry Christmas
   file_name: callen.jpg
   height: 530
   width: 410
@@ -141,6 +160,7 @@
     
 - title: Night of the Virgin
   media: Book Jacket Design
+  description: Book jacket spread illustration and design for The Night of the Virgin, by Elliott Turner.
   file_name: elliott_virgin.jpg
   height: 374
   width: 530
@@ -148,6 +168,7 @@
   
 - title: An Illustrated Guide to Soccer and Spanish
   media: Book Design, Digital Illustration
+  description: Cover design and illustration, plus 40 quarter-page illustrations for the eBook An Illustrated Guide to Soccer and Spanish, by Elliott Turner, available on the Kindle and Nook.
   file_name: elliott_soccer.jpg
   height: 441
   width: 530
@@ -155,6 +176,7 @@
     
 - title: Duncan
   media: Digital Painting
+  description: Duncan refuses to drink anything but the finest craft beers. He will look down on anyone who acts otherwise.
   file_name: duncan.jpg
   height: 530
   width: 404
@@ -162,13 +184,15 @@
   
 - title: Chase
   media: Digital Painting
+  description: Highly self satisfied, completely unimpressed.
   file_name: chase.jpg
   height: 396
   width: 530
   max_res: 2
   
-- title: KC
+- title: K.C.
   media: Digital Painting
+  description: K.C. smugly presented this portrait to his owner as though he had painted it himself. Such arrogance.
   file_name: kc.jpg
   height: 530
   width: 457
@@ -176,6 +200,7 @@
     
 - title: Octopus
   media: Digital Painting
+  description: Large-scale print of one of the strangest and most fascinating creatures on earth.
   file_name: octopus.jpg
   height: 398
   width: 530
@@ -183,6 +208,7 @@
   
 - title: MMA Mount Rushmore
   media: Digital Painting
+  description: Illustration for an article on the MMA website Sherdog.com, discussing the most important fighters of all time. Article link: www.sherdog.com/news/articles/1/MMAs-Mount-Rushmore-48395
   file_name: mmarushmore.jpg
   height: 354
   width: 530
@@ -190,6 +216,7 @@
   
 - title: Sensory Deprivation Tank
   media: Digital Painting
+  description: A chimpanzee contemplates existence in the void.
   file_name: chimp_tank.jpg
   height: 450
   width: 530
@@ -197,6 +224,7 @@
 
 - title: Shark hunter
   media: Digital Painting
+  description: Your standard demon warrior hunting atop a great white shark.
   file_name: sharkhunter.jpg
   height: 527
   width: 530
