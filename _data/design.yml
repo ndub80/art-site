@@ -96,7 +96,7 @@
   
 - title: WSOP USA Today Ad
   media: Newspaper Ad
-  description: Half-page newspaper ad for the online social game ESPN’s World Series of Poker, which ran in USA Today.
+  description: "Half-page newspaper ad for the online social game ESPN’s World Series of Poker, which ran in USA Today."
   file_name: WSOP_usa_today.jpg
   height: 337
   width: 530
@@ -144,7 +144,7 @@
 
 - title: YOWHATUP
   media: Poster Design
-  description: Promotional poster for Erik Ebeling Graphic Design, featuring Magnus, my parents’ beastish brown labrador.
+  description: "Promotional poster for Erik Ebeling Graphic Design, featuring Magnus, my parents’ beastish brown labrador."
   file_name: yowhatup.jpg
   height: 530
   width: 398
