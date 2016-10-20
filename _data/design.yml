@@ -102,6 +102,13 @@
   height: 530
   width: 354
   max_res: 2
+    
+- title: MAA2 Large Scale Banners
+  media: Poster Design
+  file_name: maa2_banners.jpg
+  height: 530
+  width: 428
+  max_res: 2
   
 - title: MIB Taco Party
   media: Poster Design
