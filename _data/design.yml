@@ -82,6 +82,13 @@
   width: 283
   max_res: 2
   
+- title: WSOP USA Today Ad
+  media: Newspaper Ad Design
+  file_name: WSOP_usa_today.jpg
+  height: 337
+  width: 530
+  max_res: 2
+  
 - title: Co-Main Event Podcast
   media: Poster Design
   file_name: cme_poster.jpg
