@@ -131,13 +131,6 @@
   width: 398
   max_res: 2
   
-- title: Octopus
-  media: Digital Painting
-  file_name: octopus.jpg
-  height: 398
-  width: 530
-  max_res: 2
-  
 - title: Merry Christmas From Bryan Callen
   media: Digital Painting
   file_name: callen.jpg
@@ -178,6 +171,13 @@
   file_name: kc.jpg
   height: 530
   width: 457
+  max_res: 2
+    
+- title: Octopus
+  media: Digital Painting
+  file_name: octopus.jpg
+  height: 398
+  width: 530
   max_res: 2
   
 - title: MMA Mount Rushmore
