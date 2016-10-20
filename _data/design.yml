@@ -151,6 +151,27 @@
   height: 441
   width: 530
   max_res: 2
+    
+- title: Duncan
+  media: Digital Painting
+  file_name: duncan.jpg
+  height: 530
+  width: 404
+  max_res: 2
+  
+- title: Chase
+  media: Digital Painting
+  file_name: chase.jpg
+  height: 396
+  width: 530
+  max_res: 2
+  
+- title: KC
+  media: Digital Painting
+  file_name: kc.jpg
+  height: 530
+  width: 457
+  max_res: 2
   
 - title: MMA Mount Rushmore
   media: Digital Painting
