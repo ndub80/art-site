@@ -11,18 +11,18 @@
   height: 280
   width: 530
   max_res: 2
+    
+- title: Reflektive Infographic
+  media: Infographic Design
+  file_name: infographic.jpg
+  height: 530
+  width: 530
+  max_res: 2
 
 - title: Foot Locker
   media: Poster Design
   file_name: foot_locker.jpg
   height: 432
-  width: 530
-  max_res: 2
-
-- title: Night of the Virgin
-  media: Book Jacket Design
-  file_name: elliott_virgin.jpg
-  height: 374
   width: 530
   max_res: 2
 
@@ -32,19 +32,12 @@
   height: 530
   width: 398
   max_res: 2
-  
-- title: Reflektive Infographic
-  media: Infographic Design
-  file_name: infographic.jpg
+    
+- title: Satyr Pale Ale
+  media: Logo Design
+  file_name: satyr_logo.jpg
   height: 530
-  width: 530
-  max_res: 2
-
-- title: Co-Main Event Podcast
-  media: Poster Design
-  file_name: cme_poster.jpg
-  height: 530
-  width: 402
+  width: 416
   max_res: 2
 
 - title: Sabzee
@@ -60,20 +53,6 @@
   height: 320
   width: 530
   max_res: 2
-  
-- title: MLSFLTR
-  media: Logo Design
-  file_name: mlsfltr.jpg
-  height: 289
-  width: 530
-  max_res: 2
-  
-- title: Satyr Pale Ale
-  media: Logo Design
-  file_name: satyr_logo.jpg
-  height: 530
-  width: 416
-  max_res: 2
 
 - title: Co-Main Event Podcast
   media: Logo Design
@@ -88,6 +67,34 @@
   height: 245
   width: 530
   max_res: 2
+    
+- title: MLSFLTR
+  media: Logo Design
+  file_name: mlsfltr.jpg
+  height: 289
+  width: 530
+  max_res: 2
+    
+- title: Frozen Free Fall Pandora Ad
+  media: Mobile Interstitial Design
+  file_name: frozen_pandora.jpg
+  height: 530
+  width: 283
+  max_res: 2
+  
+- title: Co-Main Event Podcast
+  media: Poster Design
+  file_name: cme_poster.jpg
+  height: 530
+  width: 402
+  max_res: 2
+    
+- title: Joe Rogan Exeperience
+  media: Digital Painting
+  file_name: rogan.jpg
+  height: 530
+  width: 440
+  max_res: 2
   
 - title: MAA2 X Games Poster
   media: Poster Design
@@ -96,25 +103,11 @@
   width: 354
   max_res: 2
   
-- title: Frozen Free Fall Pandora Ad
-  media: Mobile Interstitial Design
-  file_name: frozen_pandora.jpg
-  height: 530
-  width: 283
-  max_res: 2
-  
 - title: MIB Taco Party
   media: Poster Design
   file_name: taco_party.jpg
   height: 530
   width: 412
-  max_res: 2
-  
-- title: Joe Rogan Exeperience
-  media: Digital Painting
-  file_name: rogan.jpg
-  height: 530
-  width: 440
   max_res: 2
 
 - title: YOWHATUP
@@ -122,13 +115,6 @@
   file_name: yowhatup.jpg
   height: 530
   width: 398
-  max_res: 2
-  
-- title: An Illustrated Guide to Soccer and Spanish
-  media: Book Design, Digital Illustration
-  file_name: elliott_soccer.jpg
-  height: 441
-  width: 530
   max_res: 2
   
 - title: Octopus
@@ -143,6 +129,20 @@
   file_name: callen.jpg
   height: 530
   width: 410
+  max_res: 2
+    
+- title: Night of the Virgin
+  media: Book Jacket Design
+  file_name: elliott_virgin.jpg
+  height: 374
+  width: 530
+  max_res: 2
+  
+- title: An Illustrated Guide to Soccer and Spanish
+  media: Book Design, Digital Illustration
+  file_name: elliott_soccer.jpg
+  height: 441
+  width: 530
   max_res: 2
   
 - title: MMA Mount Rushmore
