@@ -11,7 +11,13 @@
   height: 445
   width: 530
   max_res: 2
-
+  
+- title: Remington Model 1858
+  media: Oil on Canvas
+  file_name: civil_war_gun.jpg
+  height: 398
+  width: 530
+  
 - title: Transient Being
   media: Oil on Canvas
   file_name: transient_being.jpg
