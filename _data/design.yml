@@ -98,8 +98,8 @@
   media: Print Design
   description: Design for Playdom social game cards, sold in Walmart, Target, and various video game stores, for use on playdom.com
   file_name: gamecards.jpg
-  height: 530
-  width: 465
+  height: 465
+  width: 530
   max_res: 2
   
 - title: WSOP USA Today Ad
@@ -225,6 +225,7 @@
 - title: MMA Mount Rushmore
   media: Digital Painting
   description: Illustration for an article on the MMA website Sherdog.com, discussing the most important fighters of all time. 
+  file_name: mmarushmore.jpg
   height: 354
   width: 530
   max_res: 2
