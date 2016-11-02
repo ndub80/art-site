@@ -92,6 +92,13 @@
   height: 384
   width: 530
   max_res: 2
+  
+- title: 4:16
+  media: Oil on Canvas
+  file_name: 416.jpg
+  height: 439
+  width: 530
+  max_res: 2
 
 - title: Untitled
   media: Linoleum Reduction
