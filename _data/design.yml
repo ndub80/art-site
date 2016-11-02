@@ -149,6 +149,14 @@
   height: 530
   width: 412
   max_res: 2
+  
+- title: 395 Luau Poster
+  media: Print Design
+  description: Poster for the annual AOL building carnival and BBQ
+  file_name: 395luau.jpg
+  height: 530
+  width: 412
+  max_res: 2
 
 - title: YOWHATUP
   media: Poster Design
