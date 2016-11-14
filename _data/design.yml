@@ -37,6 +37,22 @@
   height: 530
   width: 398
   max_res: 2
+  
+- title: Volcanic Beer
+  media: Logo Design
+  description: Package design for a small batch beer series.
+  file_name: beer_labels.jpg
+  height: 530
+  width: 530
+  max_res: 2
+  
+- title: Volcanic Beer
+  media: Logo Design
+  description: Package design for a small batch beer series.
+  file_name: beer_labels2.jpg
+  height: 530
+  width: 530
+  max_res: 2
     
 - title: Satyr Pale Ale
   media: Logo Design
