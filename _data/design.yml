@@ -13,6 +13,14 @@
   height: 280
   width: 530
   max_res: 2
+  
+- title: VaporMax
+  media: Poster Design
+  description: Promotional poster for the upcoming Nike shoe, arriving Spring, 2017.
+  file_name: vapormax.jpg
+  height: 351
+  width: 530
+  max_res: 2
     
 - title: Reflektive Infographic
   media: Infographic
@@ -38,6 +46,14 @@
   width: 398
   max_res: 2
   
+- title: Tenth of December
+  media: Print Magazine Design
+  description: Book cover design for the short story collection by George Saunders.
+  file_name: tenth_of_december.jpg
+  height: 530
+  width: 347
+  max_res: 2
+  
 - title: Volcanic Beer
   media: Logo Design
   description: Package design for a small batch beer series.
@@ -49,8 +65,8 @@
 - title: Volcanic Beer
   media: Logo Design
   description: Package design for a small batch beer series.
-  file_name: beer_labels2.jpg
-  height: 530
+  file_name: volcano_bottles.jpg
+  height: 496
   width: 530
   max_res: 2
     
@@ -124,6 +140,14 @@
   file_name: WSOP_usa_today.jpg
   height: 337
   width: 530
+  max_res: 2
+  
+- title: Mount Hood
+  media: Poster Design
+  description: Promotional poster extolling glorious Mt. Hood.
+  file_name: cme_poster.jpg
+  height: 530
+  width: 444
   max_res: 2
   
 - title: Co-Main Event Podcast
