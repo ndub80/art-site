@@ -47,7 +47,7 @@
   max_res: 2
   
 - title: Tenth of December
-  media: Print Magazine Design
+  media: Book Cover Design
   description: Book cover design for the short story collection by George Saunders.
   file_name: tenth_of_december.jpg
   height: 530
@@ -145,7 +145,7 @@
 - title: Mount Hood
   media: Poster Design
   description: Promotional poster extolling glorious Mt. Hood.
-  file_name: cme_poster.jpg
+  file_name: mount_hood_poster.jpg
   height: 530
   width: 444
   max_res: 2
