@@ -29,6 +29,14 @@
   height: 530
   width: 530
   max_res: 2
+  
+- title: Stipe Miocic
+  media: Poster Design
+  description: Promotional image for Stipe Miocic, the UFC heavyweight champion.
+  file_name: Stipe1.jpg
+  height: 530
+  width: 530
+  max_res: 2
 
 - title: Foot Locker
   media: Digital Painting
