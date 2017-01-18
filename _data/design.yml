@@ -150,6 +150,22 @@
   width: 530
   max_res: 2
   
+- title: Deftones
+  media: Poster Design
+  description: Promotional poster for the band Deftones.
+  file_name: geodesic_basket2.jpg
+  height: 362
+  width: 530
+  max_res: 2
+  
+- title: Deftones
+  media: Poster Design
+  description: Promotional poster for the band Deftones.
+  file_name: geodesic_basket.jpg
+  height: 530
+  width: 385
+  max_res: 2
+  
 - title: Mount Hood
   media: Poster Design
   description: Promotional poster extolling glorious Mt. Hood.
