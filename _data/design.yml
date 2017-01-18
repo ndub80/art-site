@@ -134,6 +134,14 @@
   width: 283
   max_res: 2
   
+- title: Deftones
+  media: Poster Design
+  description: Promotional poster for the band Deftones.
+  file_name: geodesic_basket.jpg
+  height: 530
+  width: 385
+  max_res: 2
+  
 - title: Playdom Game Card
   media: Print Design
   description: Design for Playdom social game cards, sold in Walmart, Target, and various video game stores, for use on playdom.com
@@ -148,22 +156,6 @@
   file_name: WSOP_usa_today.jpg
   height: 337
   width: 530
-  max_res: 2
-  
-- title: Deftones
-  media: Poster Design
-  description: Promotional poster for the band Deftones.
-  file_name: geodesic_basket2.jpg
-  height: 362
-  width: 530
-  max_res: 2
-  
-- title: Deftones
-  media: Poster Design
-  description: Promotional poster for the band Deftones.
-  file_name: geodesic_basket.jpg
-  height: 530
-  width: 385
   max_res: 2
   
 - title: Mount Hood
