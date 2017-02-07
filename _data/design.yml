@@ -54,14 +54,6 @@
   width: 530
   max_res: 2
 
-- title: Foot Locker
-  media: Digital Painting
-  description: Poster design for Nike.
-  file_name: foot_locker.jpg
-  height: 432
-  width: 530
-  max_res: 2
-
 - title: Captain America 75th Anniversary
   media: Print Magazine Design
   description: One-page magazine ad, celebrating Captain America's 75th Anniversary.
@@ -125,14 +117,6 @@
   height: 320
   width: 530
   max_res: 2
-   
-- title: Poker Palace
-  media: Logo Design
-  description: Logo design for the Playdom social video game Poker Palace.
-  file_name: pokerlogo.jpg
-  height: 245
-  width: 530
-  max_res: 2
     
 - title: Belme and Brothers Brewing Co.
   media: Logo Design
@@ -189,6 +173,14 @@
   height: 530
   width: 402
   max_res: 2
+  
+- title: Foot Locker
+  media: Digital Painting
+  description: Poster design for Nike.
+  file_name: foot_locker.jpg
+  height: 432
+  width: 530
+  max_res: 2
     
 - title: JRE Space Chimpanzee
   media: Digital Painting
@@ -236,14 +228,6 @@
   file_name: yowhatup.jpg
   height: 530
   width: 398
-  max_res: 2
-  
-- title: Merry Christmas From Bryan Callen
-  media: Digital Painting
-  description: Bryan Callen and his ostrich want to wish you a Merry Christmas
-  file_name: callen.jpg
-  height: 530
-  width: 410
   max_res: 2
     
 - title: Night of the Virgin
