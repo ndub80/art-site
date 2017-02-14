@@ -22,6 +22,14 @@
   width: 530
   max_res: 2
   
+- title: Low Poly
+  media: Poster Design
+  description: Digital illustration just for the hell of it.
+  file_name: poly3.jpg
+  height: 440
+  width: 530
+  max_res: 2
+  
 - title: Reflektive Infographic
   media: Infographic
   description: Infographics for Reflektive, an employee performance, engagement and analytics platform. http://blog.reflektive.com/performance-management-best-practices
