@@ -61,6 +61,14 @@
   height: 530
   width: 530
   max_res: 2
+    
+- title: Oceansize
+  media: Poster Design
+  description: Gig poster for the late, great English band Oceansize..
+  file_name: oceansize1.jpg
+  height: 530
+  width: 245
+  max_res: 2
 
 - title: Captain America 75th Anniversary
   media: Print Magazine Design
@@ -68,14 +76,6 @@
   file_name: captain_america_75th_anniversary.jpg
   height: 530
   width: 398
-  max_res: 2
-  
-- title: Oceansize
-  media: Poster Design
-  description: Gig poster for the late, great English band Oceansize..
-  file_name: oceansize1.jpg
-  height: 530
-  width: 245
   max_res: 2
   
 - title: Tenth of December
