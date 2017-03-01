@@ -6,14 +6,6 @@
   width: 343
   max_res: 2
   
-- title: One False Move
-  media: Album Art/Design
-  description: Album cover design for the Minneapolis-based rock band One False Move. (left side is the back, right, the front)
-  file_name: OFM_album_art.jpg
-  height: 280
-  width: 530
-  max_res: 2
-  
 - title: VaporMax
   media: Poster Design
   description: Promotional poster for the upcoming Nike shoe, arriving Spring, 2017.
@@ -22,12 +14,20 @@
   width: 530
   max_res: 2
   
-- title: Low Poly
+- title: Low Poly Future
   media: Poster Design
   description: Digital illustration just for the hell of it.
   file_name: poly3.jpg
   height: 530
   width: 440
+  max_res: 2
+  
+- title: Leviathan
+  media: Poster Design
+  description: Another digital illustration in a series.
+  file_name: whale.jpg
+  height: 398
+  width: 530
   max_res: 2
   
 - title: Reflektive Infographic
@@ -150,14 +150,6 @@
   width: 385
   max_res: 2
   
-- title: Playdom Game Card
-  media: Print Design
-  description: Design for Playdom social game cards, sold in Walmart, Target, and various video game stores, for use on playdom.com
-  file_name: gamecards.jpg
-  height: 465
-  width: 530
-  max_res: 2
-  
 - title: WSOP USA Today Ad
   media: Newspaper Ad
   description: Half-page newspaper ad for the online social game ESPN’s World Series of Poker, which ran in USA Today.
@@ -180,14 +172,6 @@
   file_name: cme_poster.jpg
   height: 530
   width: 402
-  max_res: 2
-  
-- title: Foot Locker
-  media: Digital Painting
-  description: Poster design for Nike.
-  file_name: foot_locker.jpg
-  height: 432
-  width: 530
   max_res: 2
     
 - title: JRE Space Chimpanzee
