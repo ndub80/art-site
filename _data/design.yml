@@ -1,3 +1,19 @@
+- title: Volcanic Beer
+  media: Logo Design
+  description: Package design for a small batch beer series.
+  file_name: volcano_bottles.jpg
+  height: 496
+  width: 530
+  max_res: 2 
+  
+- title: Volcanic Beer
+  media: Logo Design
+  description: Package design for a small batch beer series.
+  file_name: beer_labels.jpg
+  height: 530
+  width: 530
+  max_res: 2
+  
 - title: One False Move
   media: Poster Design
   description: Poster design for the One False Move EP release show.
@@ -35,22 +51,6 @@
   description: Infographics for Reflektive, an employee performance, engagement and analytics platform. http://blog.reflektive.com/performance-management-best-practices
   file_name: infographic.jpg
   height: 530
-  width: 530
-  max_res: 2
-
-- title: Volcanic Beer
-  media: Logo Design
-  description: Package design for a small batch beer series.
-  file_name: beer_labels.jpg
-  height: 530
-  width: 530
-  max_res: 2
-
-- title: Volcanic Beer
-  media: Logo Design
-  description: Package design for a small batch beer series.
-  file_name: volcano_bottles.jpg
-  height: 496
   width: 530
   max_res: 2
   
