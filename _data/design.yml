@@ -85,6 +85,14 @@
   height: 530
   width: 347
   max_res: 2
+  
+- title: R Mark
+  media: Logo Design
+  description: R Lettermark.
+  file_name: R.jpg
+  height: 530
+  width: 530
+  max_res: 2
     
 - title: Satyr Pale Ale
   media: Logo Design
