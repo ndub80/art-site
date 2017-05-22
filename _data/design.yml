@@ -22,6 +22,30 @@
   width: 343
   max_res: 2
   
+- title: KD9
+  media: Poster Design
+  description: Promotional poster for KD9.
+  file_name: kd117.jpg
+  height: 433
+  width: 530
+  max_res: 2
+  
+- title: KD9
+  media: Poster Design
+  description: Promotional poster for KD9.
+  file_name: kd11.jpg
+  height: 530
+  width: 530
+  max_res: 2
+  
+- title: KD9
+  media: Poster Design
+  description: Promotional poster for KD9.
+  file_name: kd7.jpg
+  height: 530
+  width: 530
+  max_res: 2
+
 - title: VaporMax
   media: Poster Design
   description: Promotional poster for the upcoming Nike shoe, arriving Spring, 2017.
