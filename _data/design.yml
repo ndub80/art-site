@@ -94,6 +94,22 @@
   width: 347
   max_res: 2
   
+- title: Carousel
+  media: Logo Design
+  description: Carousel logo design.
+  file_name: Carousel.jpg
+  height: 530
+  width: 530
+  max_res: 2
+    
+- title: Carousel
+  media: Logo Design
+  description: Carousel logo design.
+  file_name: Carousel1.jpg
+  height: 530
+  width: 530
+  max_res: 2
+  
 - title: R Mark
   media: Logo Design
   description: R Lettermark.
