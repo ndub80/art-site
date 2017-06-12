@@ -101,6 +101,14 @@
   height: 515
   width: 515
   max_res: 2
+    
+- title: Wildwood Adventures
+  media: Logo Design
+  description: Logo design for Wildwood Adventures, a tour company in Portland, OR www.wildwoodtours.com
+  file_name: wildwood_logo.jpg
+  height: 320
+  width: 530
+  max_res: 2
   
 - title: R Mark
   media: Logo Design
@@ -139,14 +147,6 @@
   description: Logo design for the new mom-oriented health and fitness blog.
   file_name: sneaky_sexy3.jpg
   height: 271
-  width: 530
-  max_res: 2
-  
-- title: Wildwood Adventures
-  media: Logo Design
-  description: Logo design for Wildwood Adventures, a tour company in Portland, OR www.wildwoodtours.com
-  file_name: wildwood_logo.jpg
-  height: 320
   width: 530
   max_res: 2
     
