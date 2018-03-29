@@ -3,8 +3,8 @@ title: Erik Ebeling | Art, Design and Illustration
 email: erik [at] erikebelingart [dot] com
 description: > # this means to ignore newlines until "baseurl:"
   Graphic Design, Digital Illustration, Oil Painting and Sculpture by Erik Ebeling.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.erikebelingart.com/" # the base hostname & protocol for your site
+baseurl: "art" # the subpath of your site, e.g. /blog/
+url: "http://dubspot.net/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
