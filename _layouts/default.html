@@ -4,6 +4,7 @@
   {% include head.html %}
 
   <body>
+    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
     <div class="wrap">
 
       {% include header.html %}
@@ -15,7 +16,19 @@
     </div>
 
     {% include footer.html %}
-
+    <script>
+    var kkeys = [], konami = "38,38,40,40,37,39,37,39,65,66,13";
+$(document).keydown(function(e) {
+  kkeys.push( e.keyCode );
+  if ( kkeys.toString().indexOf( konami ) >= 0 ){
+    $(document).unbind('keydown',arguments.callee);
+    $.getScript('http://www.cornify.com/js/cornify.js',function(){
+      cornify_add();
+      $(document).keydown(cornify_add);
+    });
+  }
+});
+    </script>
   </body>
 
 </html>
