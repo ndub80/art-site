@@ -9,6 +9,7 @@
 - title: Parallel
   media: Oil on Canvas
   file_name: parallel
+  type: .jpg
   height: 445
   width: 530
   max_res: 2
@@ -16,24 +17,28 @@
 - title: Remington Model 1858
   media: Oil on Canvas
   file_name: civil_war_gun
+  type: .jpg
   height: 395
   width: 530
   
 - title: Transient Being
   media: Oil on Canvas
   file_name: transient_being
+  type: .jpg
   height: 321
   width: 530
 
 - title: Magpie Butte
   media: Oil on Canvas
   file_name: magpie_butte
+  type: .jpg
   height: 468
   width: 530
 
 - title: Hatchet
   media: Oil on Canvas
   file_name: hatchet
+  type: .jpg
   height: 530
   width: 408
   max_res: 2
@@ -41,6 +46,7 @@
 - title: Kennedy Barn
   media: Oil on Canvas
   file_name: kennedy_barn
+  type: .jpg
   height: 530
   width: 530
   max_res: 2
@@ -48,6 +54,7 @@
 - title: Passage
   media: Oil on Canvas
   file_name: passage
+  type: .jpg
   height: 265
   width: 530
   max_res: 2
@@ -55,6 +62,7 @@
 - title: Tiny Succulent
   media: Oil on Canvas
   file_name: tiny_succulent
+  type: .jpg
   height: 530
   width: 354
   max_res: 2
@@ -62,6 +70,7 @@
 - title: Sentry
   media: Oil on Canvas
   file_name: setry
+  type: .jpg
   height: 409
   width: 530
   max_res: 2
@@ -69,6 +78,7 @@
 - title: Man and Pear
   media: Oil on Canvas
   file_name: man_pear
+  type: .jpg
   height: 272
   width: 530
   max_res: 2
@@ -76,6 +86,7 @@
 - title: Specificity
   media: Oil on Canvas
   file_name: specificity
+  type: .jpg
   height: 388
   width: 530
   max_res: 2
@@ -83,6 +94,7 @@
 - title: Barn
   media: Oil on Canvas
   file_name: pearson_barn
+  type: .jpg
   height: 159
   width: 530
   max_res: 2
@@ -90,6 +102,7 @@
 - title: Boulder Lake
   media: Oil on Canvas
   file_name: boulder_lake
+  type: .jpg
   height: 384
   width: 530
   max_res: 2
@@ -97,6 +110,7 @@
 - title: 4:16
   media: Oil on Canvas
   file_name: 416
+  type: .jpg
   height: 439
   width: 530
   max_res: 2
@@ -104,6 +118,7 @@
 - title: Untitled
   media: Linoleum Reduction
   file_name: leaning_barn
+  type: .jpg
   height: 432
   width: 530
   max_res: 2
@@ -111,6 +126,7 @@
 - title: Clow...No, Cock
   media: Oil on Canvas
   file_name: clow_no_cock
+  type: .jpg
   height: 442
   width: 530
   max_res: 2
@@ -118,6 +134,7 @@
 - title: Union
   media: Oil on Canvas
   file_name: union
+  type: .jpg
   height: 530
   width: 424
   max_res: 2
@@ -125,6 +142,7 @@
 - title: Your Hand Drawing Your Hero
   media: Oil on Canvas
   file_name: hands_drawing_heroes
+  type: .jpg
   height: 314
   width: 530
   max_res: 2
@@ -140,6 +158,7 @@
 - title: Federico's Girlfriend's Sister
   media: Terra Cotta
   file_name: federicos_girlfriends_sister
+  type: .jpg
   height: 530
   width: 398
   max_res: 2
@@ -147,6 +166,7 @@
 - title: Indian Head
   media: Clay, Cast Stone
   file_name: indian_head
+  type: .jpg
   height: 276
   width: 530
   max_res: 2
