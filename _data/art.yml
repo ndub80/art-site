@@ -25,149 +25,149 @@
   media: Oil on Canvas
   file_name: transient_being@2x
   type: .jpg
-  height: 321
-  width: 530
+  height: 363
+  width: 600
 
 - title: Magpie Butte
   media: Oil on Canvas
   file_name: magpie_butte@2x
   type: .jpg
-  height: 468
-  width: 530
+  height: 530
+  width: 600
 
 - title: Hatchet
   media: Oil on Canvas
   file_name: hatchet@2x
   type: .jpg
   height: 530
-  width: 408
+  width: 462
   max_res: 2
 
 - title: Kennedy Barn
   media: Oil on Canvas
   file_name: kennedy_barn@2x
   type: .jpg
-  height: 530
-  width: 530
+  height: 600
+  width:600
   max_res: 2
 
 - title: Passage
   media: Oil on Canvas
   file_name: passage@2x
   type: .jpg
-  height: 265
-  width: 530
+  height: 300
+  width: 600
   max_res: 2
 
 - title: Tiny Succulent
   media: Oil on Canvas
   file_name: tiny_succulent@2x
   type: .jpg
-  height: 530
-  width: 354
+  height: 600
+  width: 401
   max_res: 2
 
 - title: Sentry
   media: Oil on Canvas
   file_name: setry@2x
   type: .jpg
-  height: 409
-  width: 530
+  height: 463
+  width: 600
   max_res: 2
 
 - title: Man and Pear
   media: Oil on Canvas
   file_name: man_pear@2x
   type: .jpg
-  height: 272
-  width: 530
+  height: 308
+  width: 600
   max_res: 2
 
 - title: Specificity
   media: Oil on Canvas
   file_name: specificity@2x
   type: .jpg
-  height: 388
-  width: 530
+  height: 439
+  width: 600
   max_res: 2
 
 - title: Barn
   media: Oil on Canvas
   file_name: pearson_barn@2x
   type: .jpg
-  height: 159
-  width: 530
+  height: 180
+  width: 600
   max_res: 2
 
 - title: Boulder Lake
   media: Oil on Canvas
   file_name: boulder_lake@2x
   type: .jpg
-  height: 384
-  width: 530
+  height: 435
+  width: 600
   max_res: 2
   
 - title: 4:16
   media: Oil on Canvas
   file_name: 416@2x
   type: .jpg
-  height: 439
-  width: 530
+  height: 497
+  width: 600
   max_res: 2
 
 - title: Untitled
   media: Linoleum Reduction
   file_name: leaning_barn@2x
   type: .jpg
-  height: 432
-  width: 530
+  height: 489
+  width: 600
   max_res: 2
 
 - title: Clow...No, Cock
   media: Oil on Canvas
   file_name: clow_no_cock@2x
   type: .jpg
-  height: 442
-  width: 530
+  height: 500
+  width: 600
   max_res: 2
   
 - title: Union
   media: Oil on Canvas
   file_name: union
   type: .jpg
-  height: 530
-  width: 424
+  height: 600
+  width: 480
   max_res: 2
 
 - title: Your Hand Drawing Your Hero
   media: Oil on Canvas
   file_name: hands_drawing_heroes@2x
   type: .jpg
-  height: 314
-  width: 530
+  height: 355
+  width: 600
   max_res: 2
   
 - title: Dive
   media: Gypsum
   file_name: divearound
   type: .gif
-  height: 530
-  width: 199
+  height: 600
+  width: 225
   max_res: 2
 
 - title: Federico's Girlfriend's Sister
   media: Terra Cotta
   file_name: federicos_girlfriends_sister@2x
   type: .jpg
-  height: 530
-  width: 398
+  height: 600
+  width: 451
   max_res: 2
 
 - title: Indian Head
   media: Clay, Cast Stone
   file_name: indian_head@2x
   type: .jpg
-  height: 276
+  height: 312
   width: 530
   max_res: 2
 
