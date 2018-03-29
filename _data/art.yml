@@ -6,12 +6,12 @@
   width: 530
   max_res: 2
 
-- title: Parallel
+- title: Parallel@2x
   media: Oil on Canvas
   file_name: parallel
   type: .jpg
   height: 445
-  width: 530
+  width: 600
   max_res: 2
   
 - title: Remington Model 1858
