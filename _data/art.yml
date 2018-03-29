@@ -1,16 +1,16 @@
-- title: Payette@2x
+- title: Payette
   media: Oil on Canvas
-  file_name: payette
+  file_name: payette@2x
   type: .jpg
   height: 409
   width: 530
   max_res: 2
 
-- title: Parallel@2x
+- title: Parallel
   media: Oil on Canvas
-  file_name: parallel
+  file_name: parallel@2x
   type: .jpg
-  height: 445
+  height: 504
   width: 600
   max_res: 2
   
