@@ -1,7 +1,7 @@
 - title: Volcanic Beer
   media: Logo Design
   description: Package design for a small batch beer series.
-  file_name: volcano_bottles
+  file_name: volcano_bottles@2x
   type: .jpg
   height: 496
   width: 530
@@ -10,7 +10,7 @@
 - title: Volcanic Beer
   media: Logo Design
   description: Package design for a small batch beer series.
-  file_name: beer_labels
+  file_name: beer_labels@2x
   type: .jpg
   height: 530
   width: 530
@@ -19,7 +19,7 @@
 - title: One False Move
   media: Poster Design
   description: Poster design for the One False Move EP release show.
-  file_name: ofm_poster
+  file_name: ofm_poster@2x
   type: .jpg
   height: 530
   width: 343
@@ -28,7 +28,7 @@
 - title: KD9
   media: Poster Design
   description: Promotional poster for the Nike KD9.
-  file_name: kd11
+  file_name: kd11@2x
   type: .jpg
   height: 530
   width: 530
@@ -37,7 +37,7 @@
 - title: VaporMax
   media: Poster Design
   description: Promotional poster for the upcoming Nike shoe, arriving Spring, 2017.
-  file_name: vapormax
+  file_name: vapormax@2x
   type: .jpg
   height: 351
   width: 530
@@ -46,7 +46,7 @@
 - title: Low Poly Future
   media: Poster Design
   description: Digital illustration just for the hell of it.
-  file_name: poly3
+  file_name: poly3@2x
   type: .jpg
   height: 530
   width: 440
@@ -55,7 +55,7 @@
 - title: Leviathan
   media: Poster Design
   description: Another digital illustration in a series.
-  file_name: whale
+  file_name: whale@2x
   type: .jpg
   height: 398
   width: 530
@@ -64,7 +64,7 @@
 - title: Reflektive Infographic
   media: Infographic
   description: Infographics for Reflektive, an employee performance, engagement and analytics platform. http://blog.reflektive.com/performance-management-best-practices
-  file_name: infographic
+  file_name: infographic@2x
   type: .jpg
   height: 530
   width: 530
@@ -73,7 +73,7 @@
 - title: Stipe Miocic
   media: Poster Design
   description: Promotional image for Stipe Miocic, the UFC heavyweight champion.
-  file_name: Stipe1
+  file_name: Stipe1@2x
   height: 530
   width: 530
   max_res: 2
@@ -81,7 +81,7 @@
 - title: Oceansize
   media: Poster Design
   description: Gig poster for the late, great English band Oceansize..
-  file_name: oceansize1
+  file_name: oceansize1@2x
   type: .jpg
   height: 530
   width: 245
@@ -90,7 +90,7 @@
 - title: Captain America 75th Anniversary
   media: Print Magazine Design
   description: One-page magazine ad, celebrating Captain America's 75th Anniversary.
-  file_name: captain_america_75th_anniversary
+  file_name: captain_america_75th_anniversary@2x
   type: .jpg
   height: 530
   width: 398
@@ -99,7 +99,7 @@
 - title: Tenth of December
   media: Book Cover Design
   description: Book cover design for the short story collection by George Saunders.
-  file_name: tenth_of_december
+  file_name: tenth_of_december@2x
   type: .jpg
   height: 530
   width: 347
@@ -108,7 +108,7 @@
 - title: Wasp
   media: Logo Design
   description: Wasp logo designed following the proportions of the Golden Ratio.
-  file_name: Wasp
+  file_name: Wasp@2x
   type: .jpg
   height: 515
   width: 515
@@ -117,7 +117,7 @@
 - title: Carousel
   media: Logo Design
   description: Carousel logo design.
-  file_name: Carousel
+  file_name: Carousel@2x
   type: .jpg
   height: 515
   width: 515
@@ -126,7 +126,7 @@
 - title: Wildwood Adventures
   media: Logo Design
   description: Logo design for Wildwood Adventures, a tour company in Portland, OR www.wildwoodtours.com
-  file_name: wildwood_logo
+  file_name: wildwood_logo@2x
   type: .jpg
   height: 320
   width: 530
@@ -135,7 +135,7 @@
 - title: R Mark
   media: Logo Design
   description: R Lettermark.
-  file_name: R
+  file_name: R@2x
   type: .jpg
   height: 515
   width: 515
@@ -144,7 +144,7 @@
 - title: Satyr Pale Ale
   media: Logo Design
   description: Logo for Satyr Pale Ale, by Rupert's Brew House, in Kalamazoo, Michigan
-  file_name: satyr_logo
+  file_name: satyr_logo@2x
   type: .jpg
   height: 530
   width: 416
@@ -153,7 +153,7 @@
 - title: Sabzee
   media: Logo Design
   description: Logo design for the bolani (an Afghani-style turnover) vegetarian food truck in San Francisco www.sabzeefoods.com
-  file_name: sabzee
+  file_name: sabzee@2x
   type: .jpg
   height: 184
   width: 530
@@ -162,7 +162,7 @@
 - title: Co-Main Event Podcast
   media: Logo Design
   description: Logo design and variations for the MMA podcast The Co-Main Event, featuring Ben Fowlkes and Chad Dundas.
-  file_name: cme4
+  file_name: cme4@2x
   type: .jpg
   height: 513
   width: 530
@@ -171,7 +171,7 @@
 - title: Sneaky Sexy Mama
   media: Logo Design
   description: Logo design for the new mom-oriented health and fitness blog.
-  file_name: sneaky_sexy3
+  file_name: sneaky_sexy3@2x
   type: .jpg
   height: 271
   width: 530
@@ -180,7 +180,7 @@
 - title: Belme and Brothers Brewing Co.
   media: Logo Design
   description: Logo design for a brewing startup in Auburn, CA.
-  file_name: belme
+  file_name: belme@2x
   type: .jpg
   height: 530
   width: 530
@@ -189,7 +189,7 @@
 - title: Frozen Free Fall Pandora Ad
   media: Mobile Interstitial Design
   description: One of many mobile ads, this one for Pandora
-  file_name: frozen_pandora
+  file_name: frozen_pandora@2x
   type: .jpg
   height: 530
   width: 283
@@ -198,7 +198,7 @@
 - title: Deftones
   media: Poster Design
   description: Promotional poster for the band Deftones.
-  file_name: geodesic_basket
+  file_name: geodesic_basket@2x
   type: .jpg
   height: 530
   width: 385
@@ -207,7 +207,7 @@
 - title: WSOP USA Today Ad
   media: Newspaper Ad
   description: Half-page newspaper ad for the online social game ESPN’s World Series of Poker, which ran in USA Today.
-  file_name: WSOP_usa_today
+  file_name: WSOP_usa_today@2x
   type: .jpg
   height: 337
   width: 530
@@ -216,7 +216,7 @@
 - title: Mount Hood
   media: Poster Design
   description: Promotional poster extolling glorious Mt. Hood.
-  file_name: mt_hood_poster
+  file_name: mt_hood_poster@2x
   type: .jpg
   height: 530
   width: 444
@@ -225,7 +225,7 @@
 - title: Co-Main Event Podcast
   media: Poster Design
   description: Promotional poster design for the Co-Main Event Podcast, with Chad Dundas of ESPN.com and Ben Fowlkes of USA Today. www.comainevent.com/about-us/
-  file_name: cme_poster
+  file_name: cme_poster@2x
   type: .jpg
   height: 530
   width: 402
@@ -234,7 +234,7 @@
 - title: JRE Space Chimpanzee
   media: Digital Painting
   description: Promotional poster for the Joe Rogan Experience podcast.
-  file_name: rogan
+  file_name: rogan@2x
   type: .jpg
   height: 530
   width: 440
@@ -243,7 +243,7 @@
 - title: MAA2 X Games Poster
   media: Poster Design
   description: Large-scale print poster shown at X Games events.
-  file_name: MAA2_X_Games_sign
+  file_name: MAA2_X_Games_sign@2x
   type: .jpg
   height: 530
   width: 354
@@ -252,7 +252,7 @@
 - title: MAA2 Large Banners
   media: Poster Design
   description: Large-scale print banners promoting the game, shown at various conventions.
-  file_name: maa2_banners
+  file_name: maa2_banners@2x
   type: .jpg
   height: 530
   width: 428
@@ -261,7 +261,7 @@
 - title: MIB Taco Party
   media: Poster Design
   description: Promotional poster for Michael Ian Black's push to become the official spokesperson of Taco Bell.
-  file_name: taco_party
+  file_name: taco_party@2x
   type: .jpg
   height: 530
   width: 412
@@ -270,7 +270,7 @@
 - title: 395 Luau Poster
   media: Print Design
   description: Poster for the annual AOL building carnival and BBQ
-  file_name: 395luau
+  file_name: 395luau@2x
   type: .jpg
   height: 530
   width: 412
@@ -279,7 +279,7 @@
 - title: YOWHATUP
   media: Poster Design
   description: Promotional poster for Erik Ebeling Graphic Design, featuring Magnus, my parents’ beastish brown labrador.
-  file_name: yowhatup
+  file_name: yowhatup@2x
   type: .jpg
   height: 530
   width: 398
@@ -288,7 +288,7 @@
 - title: Night of the Virgin
   media: Book Jacket Design
   description: Book jacket spread illustration and design for The Night of the Virgin, by Elliott Turner.
-  file_name: elliott_virgin
+  file_name: elliott_virgin@2x
   type: .jpg
   height: 374
   width: 530
@@ -297,7 +297,7 @@
 - title: An Illustrated Guide to Soccer and Spanish
   media: Book Design, Digital Illustration
   description: Cover design and illustration, plus 40 quarter-page illustrations for the eBook An Illustrated Guide to Soccer and Spanish, by Elliott Turner, available on the Kindle and Nook.
-  file_name: elliott_soccer
+  file_name: elliott_soccer@2x
   type: .jpg
   height: 441
   width: 530
@@ -306,7 +306,7 @@
 - title: Duncan
   media: Digital Painting
   description: Duncan refuses to drink anything but the finest craft beers. He will look down on anyone who acts otherwise.
-  file_name: duncan
+  file_name: duncan@2x
   type: .jpg
   height: 530
   width: 404
@@ -315,7 +315,7 @@
 - title: Chase
   media: Digital Painting
   description: Highly self satisfied, completely unimpressed.
-  file_name: chase
+  file_name: chase@2x
   type: .jpg
   height: 396
   width: 530
@@ -324,7 +324,7 @@
 - title: K.C.
   media: Digital Painting
   description: K.C. smugly presented this portrait to his owner as though he had painted it himself. Such arrogance.
-  file_name: kc
+  file_name: kc@2x
   type: .jpg
   height: 530
   width: 457
@@ -333,7 +333,7 @@
 - title: Octopus
   media: Digital Painting
   description: Large-scale print of one of the strangest and most fascinating creatures on earth.
-  file_name: octopus
+  file_name: octopus@2x
   type: .jpg
   height: 398
   width: 530
@@ -342,7 +342,7 @@
 - title: MMA Mount Rushmore
   media: Digital Painting
   description: Illustration for an article on the MMA website Sherdog.com, discussing the most important fighters of all time. 
-  file_name: mmarushmore
+  file_name: mmarushmore@2x
   type: .jpg
   height: 354
   width: 530
@@ -351,7 +351,7 @@
 - title: Sensory Deprivation Tank
   media: Digital Painting
   description: A chimpanzee contemplates existence in the void.
-  file_name: chimp_tank
+  file_name: chimp_tank@2x
   type: .jpg
   height: 450
   width: 530
@@ -360,7 +360,7 @@
 - title: Shark hunter
   media: Digital Painting
   description: Your standard demon warrior hunting atop a great white shark.
-  file_name: sharkhunter
+  file_name: sharkhunter@2x
   type: .jpg
   height: 527
   width: 530
