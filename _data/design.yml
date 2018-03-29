@@ -2,6 +2,7 @@
   media: Logo Design
   description: Package design for a small batch beer series.
   file_name: volcano_bottles
+  type: .jpg
   height: 496
   width: 530
   max_res: 2 
