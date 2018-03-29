@@ -1,6 +1,7 @@
 - title: Payette
   media: Oil on Canvas
   file_name: payette
+  type: .jpg
   height: 409
   width: 530
   max_res: 2
@@ -130,7 +131,8 @@
   
 - title: Dive
   media: Gypsum
-  file_name: divearound.gif
+  file_name: divearound
+  type: .gif
   height: 530
   width: 199
   max_res: 2
