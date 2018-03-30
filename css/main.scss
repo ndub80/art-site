@@ -40,7 +40,7 @@ $footer_height: 19px;
 
 @font-face {
     font-family: CenturyGothic2;
-    src: url('/fonts/century-gothic-2.ttf');
+    src: url('{{site.baseurl}}/fonts/century-gothic-2.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -52,7 +52,7 @@ html {
 body {
     height: 100%;
     margin: 0px;
-    font-family: CenturyGothic2, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-family: CenturyGothic2, "Century Gothic", CenturyGothic, AppleGothic, sans-serif !important;
 }
 
 .wrap {
@@ -219,3 +219,24 @@ a:active, .email:active {
 #profile-grid .thumbnail {margin-bottom:6px;}
 #profile-grid .panel-thumbnail { overflow: hidden; }
 #profile-grid .img-rounded { border-radius: 4px 4px 0 0;}
+
+@media(min-width:992px){
+ul li {
+    float: left;
+}
+ul li:not(:last-child) {
+    border-right:1px solid grey;
+    margin-right:20px;
+    padding-right:20px;
+}
+}
+
+header {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+    margin-bottom: 50px;
+}
+
+.navbar-brand a {
+    font-size: 23px;
+}
