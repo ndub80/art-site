@@ -1,11 +1,11 @@
 {% assign num_art = include.data.size %}
 {% for i in (1..num_art) %}
   {% assign project = include.data[forloop.index0] %}
-  <div class="item">
-    <div class="img-container">
-      <a href="{{site.baseurl}}/images/{{include.images_subdir}}/{{project.file_name}}{{project.type}}" target="_blank"><img title="{{project.title}}" src="{{site.baseurl}}/images/{{include.images_subdir}}/{{project.file_name}}{{project.type}}" {% if project.max_res %}data-rjs="{{project.max_res}}"{% endif %} style="width:{{project.width}}px; height:{{project.height}}px;"/></a>
+  <div class="row">
+    <div class="col-md-8">
+      <img class="img-thumbnail" title="{{project.title}}" src="{{site.baseurl}}/images/{{include.images_subdir}}/{{project.file_name}}{{project.type}}" {% if project.max_res %}data-rjs="{{project.max_res}}"{% endif %}/>
     </div>
-    <div class="info">
+    <div class="col-md-4">
       <div class="number">
         {{i}} / {{num_art}}
       </div>

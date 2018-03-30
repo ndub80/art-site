@@ -1,34 +1,47 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
-    <div class="wrap">
+<body>
 
-      {% include header.html %}
+  <div class="container-fluid">
 
-      <div class="main">
-        {{ content }}
-      </div>
+    {% include header.html %}
 
-    </div>
+  </div>
 
-    {% include footer.html %}
-    <script>
-    var kkeys = [], konami = "38,38,40,40,37,39,37,39,66,65,13";
-$(document).keydown(function(e) {
-  kkeys.push( e.keyCode );
-  if ( kkeys.toString().indexOf( konami ) >= 0 ){
-    $(document).unbind('keydown',arguments.callee);
-    $.getScript('http://www.cornify.com/js/cornify.js',function(){
-      cornify_add();
-      $(document).keydown(cornify_add);
+  <div class="container">
+    {{ content }}
+  </div>
+
+  {% include footer.html %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js" integrity="sha256-jGAkJO3hvqIDc4nIY1sfh/FPbV+UK+1N+xJJg6zzr7A="
+    crossorigin="anonymous"></script>
+  <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script> crossorigin="anonymous"></script>
+
+  <script>
+    var kkeys = [],
+      konami = "38,38,40,40,37,39,37,39,66,65,13";
+    $(document).keydown(function (e) {
+      kkeys.push(e.keyCode);
+      if (kkeys.toString().indexOf(konami) >= 0) {
+        $(document).unbind('keydown', arguments.callee);
+        $.getScript('http://www.cornify.com/js/cornify.js', function () {
+          cornify_add();
+          $(document).keydown(cornify_add);
+        });
+      }
     });
-  }
-});
-    </script>
-  </body>
+
+    $(document).on('click', '[data-toggle="lightbox"]', function (event) {
+      event.preventDefault();
+      $(this).ekkoLightbox();
+    });
+  </script>
+</body>
 
 </html>
