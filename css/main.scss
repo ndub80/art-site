@@ -232,11 +232,17 @@ ul li:not(:last-child) {
 }
 
 header {
-    background-color: #f8f9fa;
+    background-color: #f1f4f6;
     box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
     margin-bottom: 50px;
 }
 
-.navbar-brand a {
-    font-size: 23px;
+#erik {
+    font-size: 12px;
+}
+
+@media(max-width:992px){
+    #erik {
+        display: none;
+    }
 }
