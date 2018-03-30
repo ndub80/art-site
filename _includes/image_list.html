@@ -1,7 +1,7 @@
 {% assign num_art = include.data.size %} {% for i in (1..num_art) %} {% assign project = include.data[forloop.index0] %}
   <div class="row justify-content-md-center">
     <div class="card mb-3">
-      <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/{{include.images_subdir}}/{{project.file_name}}{{project.type}}" alt="Card image cap">
+      <a href="#" title="{{project.title}}" class="thumb"><img class="card-img-top img-fluid" src="{{site.baseurl}}/images/{{include.images_subdir}}/{{project.file_name}}{{project.type}}" alt="Card image cap" data-toggle="modal" data-target=".modal-profile-lg"></a>
       <div class="card-body">
         <h5 class="card-title">{{project.media}}</h5>
         <p class="card-text">{{project.title}}</p>
