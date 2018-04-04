@@ -265,3 +265,9 @@ footer {
         margin: 0px !important;
     }
 }
+
+@media(min-width:768px){
+    ul {
+        line-height: 0;
+    }
+}
